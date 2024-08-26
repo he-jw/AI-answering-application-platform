@@ -8,27 +8,30 @@
 
 ### 项目展示
 
-本项目涉及 10 多个页面，前面已经展示部分页面。
-
 应用详情页：
 
-![](https://pic.yupi.icu/1/20240604145229915.png)
+![image](https://github.com/user-attachments/assets/b5ab95a8-b76b-4d93-a6f7-277693529a13)
+
 
 用户答题页面：
 
-![](https://pic.yupi.icu/1/20240604145230156.png)
+![image](https://github.com/user-attachments/assets/2918b194-d511-40c4-8671-800c0296bedc)
+
 
 创建应用页：
 
-![](https://pic.yupi.icu/1/20240604145230361.png)
+![image](https://github.com/user-attachments/assets/33e15bb0-313f-413e-87c1-b9e3fcda40ac)
+
 
 创建题目页，涉及复杂动态嵌套表单的开发：
 
-![](https://pic.yupi.icu/1/20240604145230557.png)
+
 
 应用管理页面：
 
-![](https://pic.yupi.icu/1/20240604145230731.png)
+![image](https://github.com/user-attachments/assets/4f15f9db-011d-4980-8c97-8b9762733258)
+
+
 
 统计分析页面：
 

@@ -24,6 +24,8 @@
 
 
 创建题目页，涉及复杂动态嵌套表单的开发：
+![image](https://github.com/user-attachments/assets/889d21c2-127c-437e-9d20-f36d06bbc6a7)
+
 
 
 
